@@ -44,14 +44,14 @@ h4 a{
 
 /*------Main body------*/
 h2 {
-  font-weight: 600;
+  font-weight: 400;
   margin: 0;
   padding: 0;
   font-size: 19px;
 }
 
 h3 {
-  font-weight: 300;
+  font-weight: 600;
   margin: 0;
   padding: 0;
   font-size: 24px;
@@ -62,5 +62,12 @@ h5 {
   margin: 0;
   padding: 0;
   font-size: 12px;
+}
+
+h6 {
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
 }
 
